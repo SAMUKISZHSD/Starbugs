@@ -1,4 +1,4 @@
-# Starbugs
+# Starbugs Coffee
 
 Projeto de automação de testes da <a href = "https://starbugs-qa.vercel.app/"> Starbugs Coffee </a>, utilizando: Capybara, Cucumber, Selenium-webdriver, Rspec, Gherkin e Ruby
 
